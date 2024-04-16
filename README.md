@@ -1,4 +1,4 @@
-# Mi Proyecto
+#  GIF with Python
 
 Aquí está el GIF creado:
 
